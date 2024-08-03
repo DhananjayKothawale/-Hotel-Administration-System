@@ -1,15 +1,5 @@
 
-'''
-    Project NAME :- Hotel Administration System
-
-    Name : DHANANJAY MACHINDRA KOTHAWALE
-
-    GIT-HUB Username : DhananjayKothawale
-    Edx Username : Dhananjay_Kothawale
-    City,State,Country : Chhatrapati Sambhajinagar(Aurangabad) , Maharashtra , India
-    Date(YYYY-MM-DD) : 2004-07-27
-
-'''
+#    Project NAME :- Hotel Administration System
 
 class Hotel:
     def __init__(self):
