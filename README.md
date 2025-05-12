@@ -33,4 +33,3 @@ The project includes tests for its core functionalities:
 - `test_add_review()`: Verifies that reviews can be added to bookings.
 - `test_delete_review()`: Confirms that reviews can be deleted from bookings.
 
-This README.md provides an overview of the project’s features, usage instructions, error handling details, and testing information.
